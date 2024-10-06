@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaroslav144
-- 👀 I’m interested in Data Science and Computational Chemistry
+- 👀 I’m interested in Math, Physics and Computational Chemistry
 - 📫 You can reach me by email: nikiforovy144@gmail.com
 
 <!---
